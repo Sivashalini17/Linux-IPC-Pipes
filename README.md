@@ -97,7 +97,7 @@ exit(EXIT_SUCCESS);
 }
 ```
 ## OUTPUT
-
+![Screenshot from 2025-05-07 23-08-56](https://github.com/user-attachments/assets/9349050a-9a65-4d9d-906a-fc1d0e3c4baa)
 
 # RESULT:
 The program is executed successfully.
